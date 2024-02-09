@@ -1,0 +1,51 @@
+:root{
+    background: #000000;
+    font-family: 'Raleway', sans-serif;
+}
+/* header */
+header h1{
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 50px;
+    text-align: center;
+}
+header img{
+    width: 100vw;
+}
+
+/* Desc-section */
+.desc-section{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 4em;
+}
+.texto{
+    width: 475px;
+    text-align: left;
+}
+.desc-section p{
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 300;
+}
+.desc-section img{
+    width: 399px;
+    height: 237px;
+}
+
+/* Icon Section */
+.icon-section{
+    background: #1e1a13;
+    padding: 3em;
+    text-align: center;
+}
+.icon-section h1{
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 40px;
+}
+.icon-section i{
+    color: #ffffff;
+    font-size: 40px;
+    margin: 2em 3em 2em 3em;
+}
